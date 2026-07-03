@@ -37,7 +37,3 @@ The Flask backend exposes the following primary endpoints for hardware and front
 *   **`/chat`**: Passes user queries and health context to the integrated AI for natural language health guidance.
 *   **`/status`**: Backend health check and operational verification.
 
-
-**Team MedApex**
-*   **Strategy & Management:** Arpit Mishra 
-*   **Team Members:** Komal Singh, Sanskar Mishra, Bhumi Kumari
